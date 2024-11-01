@@ -8,7 +8,6 @@ Original file is located at
 
 #Lab 2
 
-## Livhuwani Mutshafa, (1717376) and Gloria Pucoe, (1477437)
 """
 
 from google.colab import drive
